@@ -5,6 +5,6 @@
   "scripts": {
     "release": "standard-version"
   },
-  "version": "1.0.3",
+  "version": "1.0.4",
   "name": "standard-version-test"
 }
