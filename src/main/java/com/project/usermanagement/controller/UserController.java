@@ -26,4 +26,10 @@ public class UserController {
     return ResponseEntity.ok().build();
   }
 
+  @GetMapping(value = "/single", produces = APPLICATION_JSON_VALUE)
+  public ResponseEntity<?> getSingle() {
+
+    return ResponseEntity.ok().build();
+  }
+
 }
