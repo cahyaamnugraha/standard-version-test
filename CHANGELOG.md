@@ -2,9 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [](https://github.com/cahyaamnugraha/standard-version-test/compare/v1.2.1...v) (2024-05-03)
+
 
 ### Bug Fixes
 
+* delete null version ([a39caf2](https://github.com/cahyaamnugraha/standard-version-test/commit/a39caf25d8d3188272d1b3287fc35641e87a3a15))
 * delete null version ([2f50659](https://github.com/cahyaamnugraha/standard-version-test/commit/2f506598763e30c878960a8bd0fb679c17d43c95))
 
 ### [1.2.1](https://github.com/cahyaamnugraha/standard-version-test/compare/v1.2.0...v1.2.1) (2024-05-03)
