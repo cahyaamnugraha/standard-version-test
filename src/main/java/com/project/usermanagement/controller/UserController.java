@@ -31,5 +31,10 @@ public class UserController {
 
     return ResponseEntity.ok().build();
   }
+  @GetMapping(value = "/second", produces = APPLICATION_JSON_VALUE)
+  public ResponseEntity<?> getSecond() {
+
+    return ResponseEntity.ok().build();
+  }
 
 }
