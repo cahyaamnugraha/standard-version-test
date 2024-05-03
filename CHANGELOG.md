@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.4](https://github.com/cahyaamnugraha/standard-version-test/compare/v1.2.4-2...v1.2.4) (2024-05-03)
+
 ### [1.2.4-2](https://github.com/cahyaamnugraha/standard-version-test/compare/v1.2.4-1...v1.2.4-2) (2024-05-03)
 
 ### [1.2.4-1](https://github.com/cahyaamnugraha/standard-version-test/compare/v1.2.4-0...v1.2.4-1) (2024-05-03)
